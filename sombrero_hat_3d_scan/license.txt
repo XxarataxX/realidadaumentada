@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sombrero hat 3D scan
+* source:	https://sketchfab.com/3d-models/sombrero-hat-3d-scan-e8d5a5d300024a7fa981cd294e97ce60
+* author:	GSXNet (https://sketchfab.com/gsxn)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sombrero hat 3D scan" (https://sketchfab.com/3d-models/sombrero-hat-3d-scan-e8d5a5d300024a7fa981cd294e97ce60) by GSXNet (https://sketchfab.com/gsxn) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
